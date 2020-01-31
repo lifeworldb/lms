@@ -1,0 +1,29 @@
+// Diploma
+{
+  "id": "IdDiploma",
+  "text": "NameDiploma",
+  "description": "description",
+  "shortDescription": "short",
+  "subText": "caption",
+  "avatar": "urlForAvatar",
+  "cover": "urlCover",
+  "lastSelected": true,
+  "content": {
+    "pageHome": {},
+    "units": []
+  }
+}
+
+// Units
+{
+  "id": "IdUnit",
+  "name": 'NameUnit',
+  "topics": []
+}
+
+// Topics
+{
+  "id": "IdTopic",
+  "name": "NameTopic",
+  "content": {}
+}
